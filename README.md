@@ -14,3 +14,11 @@ until you have reach the folder where you have save the project.
 5. After typing "npm start" into the node.js command prompt, a browser with the url:"http://localhost:3000/" should pop-up on your screen. If no browser pops up, just type: http://localhost:3000/ in the browser of your choice.
 6. It should be showing the project.
 7. Have fun with the MyReads project.
+
+
+# Contributors 
+
+Tutorial Requests: FEND Project 6 - Walk Through (LONG)
+
+https://www.youtube.com/watch?v=acJHkd6K5kI&feature=youtu.be
+
